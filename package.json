@@ -1,6 +1,3 @@
-{
-  "name": "swim-manager-game",
-  "lockfileVersion": 3,
-  "requires": true,
-  "packages": {}
+"scripts": {
+  "start": "vite preview --port $PORT"
 }
